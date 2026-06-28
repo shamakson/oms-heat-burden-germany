@@ -5,7 +5,7 @@ type: software
 
 authors:
   - family-names: Samakinwa
-    given-names: E.
+    given-names: Eric
   - family-names: Scheiber
     given-names: L.
   - family-names: Cohrs
@@ -15,38 +15,19 @@ authors:
   - family-names: Rechid
     given-names: D.
 
-abstract: "Code and analysis workflow for quantifying how mean-state warming increases Germany's extreme summer heat burden using OMS (Observation-based Mean-Shift). The repository includes scripts for estimating local/global warming sensitivity, constructing weather-preserving counterfactual summers, calculating extreme heat degree days, and reproducing national and state-level analyses for Germany."
+abstract: "Code and analysis workflow for quantifying how mean-state warming increases Germany's extreme summer heat burden using OMS. The repository includes scripts for estimating local/global warming sensitivity, constructing weather-preserving counterfactual summers, calculating extreme heat degree days, and reproducing national and state-level analyses for Germany."
 
 keywords:
   - climate change
   - heat extremes
   - extreme heat degree days
   - Germany
-  - observational mean-shift
   - OMS
-  - pattern scaling
   - heat burden
+  - pattern scaling
 
 license: MIT
 repository-code: "https://github.com/shamakson/oms-heat-burden-germany"
 url: "https://github.com/shamakson/oms-heat-burden-germany"
-
-version: "0.1.0-revision"
+version: "0.1.1-revision"
 date-released: "2026-06-28"
-
-preferred-citation:
-  type: article
-  title: "Mean-state warming loads Germany's extreme summer heat burden"
-  authors:
-    - family-names: Samakinwa
-      given-names: E.
-    - family-names: Scheiber
-      given-names: L.
-    - family-names: Cohrs
-      given-names: J.-C.
-    - family-names: Pfeifer
-      given-names: S.
-    - family-names: Rechid
-      given-names: D.
-  journal: "Environmental Research Letters"
-  status: "submitted"
