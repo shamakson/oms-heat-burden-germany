@@ -1,0 +1,22 @@
+name: oms-heat-burden-germany
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - statsmodels
+  - xarray
+  - netcdf4
+  - h5netcdf
+  - cftime
+  - dask
+  - geopandas
+  - shapely
+  - pyproj
+  - fiona
+  - pyogrio
+  - rtree
+  - matplotlib
+  - openpyxl
